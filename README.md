@@ -421,8 +421,13 @@ En la siguiente pestaña podemos configurar el estilo y tamaño de la tarjeta. L
 </p>
 
 
-Ahora hagamos 
+Ahora creemos otra igual pero para ver la humedad.Tambien creemos una con una grafica y otra para ver la informacion del dispositivo. Deberia quedarles parecido a esto:
 
 
+<p align="center">
+  <img src="assets/images/24.png" width="750">
+</p>
 
-Antes de continuar expandiéndose con la visualización de la información, las tarjetas, etc, vayamos a .
+### Cloudant 
+
+Ahora vayamos al servicio de cloudant 
